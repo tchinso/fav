@@ -1,1 +1,1 @@
-monolith fav.ju.mp -o favorites.html
+ * .\monolith fav.ju.mp -o favorites.html
