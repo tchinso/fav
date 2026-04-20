@@ -1,0 +1,572 @@
+[
+  {
+    "type": "category",
+    "name": "종합"
+  },
+  {
+    "type": "engine",
+    "name": "Google",
+    "url": "https://www.google.com/search?q=imouto&gl=US&num=100&newwindow=1"
+  },
+  {
+    "type": "engine",
+    "name": "나무위키",
+    "url": "https://namu.wiki/Go?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "YouTube",
+    "url": "https://www.youtube.com/results?search_query=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "네이버 뉴스",
+    "url": "https://search.naver.com/search.naver?where=news&query=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Danbooru",
+    "url": "https://danbooru.donmai.us/posts?tags=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "EmojiDB",
+    "url": "https://emojidb.org/imouto"
+  },
+  {
+    "type": "category",
+    "name": "커뮤니티"
+  },
+  {
+    "type": "engine",
+    "name": "X",
+    "url": "https://x.com/search?q=imouto&f=live"
+  },
+  {
+    "type": "engine",
+    "name": "디시인사이드",
+    "url": "https://search.dcinside.com/combine/q/imouto"
+  },
+  {
+    "type": "engine",
+    "name": "아카라이브",
+    "url": "https://arca.live/b/breaking?keyword=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Kone",
+    "url": "https://kone.gg/s/all?q=imouto"
+  },
+  {
+    "type": "category",
+    "name": "리소스 (1차 탐색)"
+  },
+  {
+    "type": "engine",
+    "name": "Nyaa (Sukebei)",
+    "url": "https://sukebei.nyaa.si/?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "The Pirate Bay",
+    "url": "https://thepiratebay.org/search.php?q=imouto&all=on"
+  },
+  {
+    "type": "engine",
+    "name": "PikPak (Google 검색)",
+    "url": "https://www.google.com/search?q=imouto+site%3Amypikpak.com&gl=US&num=100&newwindow=1"
+  },
+  {
+    "type": "engine",
+    "name": "Kemono",
+    "url": "https://kemono.cr/artists?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Coomer",
+    "url": "https://coomer.st/posts?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "F95ZONE (추가 작업 필요)",
+    "url": "https://f95zone.to/search/?q=imouto&o=relevance"
+  },
+  {
+    "type": "category",
+    "name": "리소스 (2차 탐색)"
+  },
+  {
+    "type": "engine",
+    "name": "BT4GPRX",
+    "url": "https://bt4gprx.com/search?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Knaben",
+    "url": "https://knaben.org/search/imouto"
+  },
+  {
+    "type": "engine",
+    "name": "MikuClub",
+    "url": "https://www.mikuclub.work/search_page?search=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "MP4Hentai",
+    "url": "https://mp4hentai.com/?s=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Laowang",
+    "url": "https://laowang.vip/search/s.php?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "V2Dao",
+    "url": "https://www.v2dao.com/en-US/posts?title=imouto&page=1"
+  },
+  {
+    "type": "engine",
+    "name": "Lanren",
+    "url": "https://lanrenbl.net/?cat=&s=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "HentaiOMG",
+    "url": "https://hentaiomg.com/?s=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Mengzhan (주소 안내)",
+    "url": "https://mengzhan.net/?utm_source=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Miku01 (주소 안내)",
+    "url": "https://miku01.top/?utm_source=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "ACG.LA (주소 안내)",
+    "url": "https://acg.la/?utm_source=imouto"
+  },
+  {
+    "type": "category",
+    "name": "스트리밍 (애니/2D)"
+  },
+  {
+    "type": "engine",
+    "name": "HentaiAnimeZone",
+    "url": "https://hentaianimezone.com/tags/imouto"
+  },
+  {
+    "type": "engine",
+    "name": "HAnime1",
+    "url": "https://hanime1.me/search?query=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "AVbebe",
+    "url": "https://avbebe.com/?s=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "BadNews (2D)",
+    "url": "https://bad.news/dm/search/q-imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Iwara",
+    "url": "https://www.iwara.tv/search?query=imouto&type=videos"
+  },
+  {
+    "type": "engine",
+    "name": "Rule34Video (후속 조치 필요)",
+    "url": "https://rule34video.com/search/?utm_source=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Moecchi",
+    "url": "https://moecchi.com/search?q=imouto"
+  },
+  {
+    "type": "category",
+    "name": "게임 (에로게)"
+  },
+  {
+    "type": "engine",
+    "name": "DLSite (RJ 코드 입력)",
+    "url": "https://www.dlsite.com/maniax/work/=/product_id/imouto.html"
+  },
+  {
+    "type": "engine",
+    "name": "VNDB",
+    "url": "https://vndb.org/v?sq=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Nyaa.si (Sukebei)",
+    "url": "https://sukebei.nyaa.si/?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Ryuugames",
+    "url": "https://www.ryuugames.com/?s=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Kimochi.info",
+    "url": "https://kimochi.info/?s=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Tokyo Toshokan",
+    "url": "https://www.tokyotosho.info/search.php?terms=imouto&type=0&searchName=true&searchComment=true&size_min=&size_max=&username="
+  },
+  {
+    "type": "engine",
+    "name": "Erogedaisuki",
+    "url": "https://erogedaisuki.com/search/imouto/1"
+  },
+  {
+    "type": "engine",
+    "name": "공략 (Furumadoi Matome)",
+    "url": "https://furumadoi-matome.blog.jp/search?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "공략 (Kannagi)",
+    "url": "https://kannagi35.com/?s=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Google 공략 검색",
+    "url": "https://www.google.com/search?q=imouto%20%E6%94%BB%E7%95%A5&gl=US&num=100&newwindow=1"
+  },
+  {
+    "type": "category",
+    "name": "게임 (일반)"
+  },
+  {
+    "type": "engine",
+    "name": "Steamunlocked",
+    "url": "https://steamunlocked.org/?s=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "CS.RIN.RU",
+    "url": "https://cs.rin.ru/forum/search.php?keywords=imouto&terms=any&author=&sc=1&sf=titleonly&sk=t&sd=d&sr=topics&st=0&ch=300&t=0&submit=Search"
+  },
+  {
+    "type": "engine",
+    "name": "Koyso",
+    "url": "https://koyso.to/?keywords=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Kone",
+    "url": "https://kone.gg/s/all?qk=imouto&qd=all"
+  },
+  {
+    "type": "engine",
+    "name": "Nyaa.si",
+    "url": "https://nyaa.si/?q=imouto"
+  },
+  {
+    "type": "category",
+    "name": "스트리밍 (애니)"
+  },
+  {
+    "type": "engine",
+    "name": "LinkKF",
+    "url": "https://kr.linkkf.net/?s=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "OHLI24.com",
+    "url": "https://ohli24.com/bbs/search.php?srows=24&gr_id=&sfl=wr_subject&stx=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Aniweek",
+    "url": "https://aniweek.com/bbs/search.php?srows=24&gr_id=&sfl=wr_subject&stx=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "OHLI24.net",
+    "url": "https://ohli24.net/search/keyword-imouto.html"
+  },
+  {
+    "type": "engine",
+    "name": "Anilife",
+    "url": "https://anilife.live/search?keyword=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Aniabout",
+    "url": "https://aniabout.com/search/keyword-imouto.html"
+  },
+  {
+    "type": "engine",
+    "name": "Aninamu",
+    "url": "https://aninamu.com/?search=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Aniwolf",
+    "url": "https://aniwolf.com/?search=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "TVWiki (주소 안내)",
+    "url": "https://t.me/s/tvwiki_url?utm_source=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "TVMon (주소 안내)",
+    "url": "https://t.me/s/tvmon_noti?utm_source=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Juso33 (주소 안내)",
+    "url": "https://t.me/s/juso33?utm_source=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "TVHot",
+    "url": "https://tvhot.store/search?stx=imouto"
+  },
+  {
+    "type": "category",
+    "name": "스트리밍 (실사)"
+  },
+  {
+    "type": "engine",
+    "name": "Pornhub",
+    "url": "https://jp.pornhub.com/video/search?search=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "85PO",
+    "url": "https://www.85po.com/search/imouto/"
+  },
+  {
+    "type": "engine",
+    "name": "KissJAV",
+    "url": "https://kissjav.com/search/imouto/"
+  },
+  {
+    "type": "engine",
+    "name": "TokyoMotion",
+    "url": "https://tokyomotion.com/search/imouto/"
+  },
+  {
+    "type": "engine",
+    "name": "Monsnode",
+    "url": "https://monsnode.com/search.php?search=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Eroterest",
+    "url": "https://movie.eroterest.net/?word=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "XVideos",
+    "url": "https://www.xvideos.com/?k=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Spankbang",
+    "url": "https://spankbang.com/s/imouto/"
+  },
+  {
+    "type": "engine",
+    "name": "XHamster",
+    "url": "https://xhamster.com/search/imouto"
+  },
+  {
+    "type": "engine",
+    "name": "BadNews",
+    "url": "https://bad.news/search/q-imouto/type-porn"
+  },
+  {
+    "type": "engine",
+    "name": "AVbebe",
+    "url": "https://avbebe.com/?s=imouto"
+  },
+  {
+    "type": "category",
+    "name": "스트리밍 (리핑)"
+  },
+  {
+    "type": "engine",
+    "name": "Yohli24",
+    "url": "https://kr1.yohli24.net/search?keyword=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Aniya24",
+    "url": "https://www.aniya24.com/?s=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "HentaiHeaven",
+    "url": "https://hentaihaven.xxx/?s=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Animeidhentai",
+    "url": "https://animeidhentai.com/?s=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "HAnime (추가 작업 필요)",
+    "url": "https://hanime.tv/search?utm_source=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "HStream.moe",
+    "url": "https://hstream.moe/search?search=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "SubtitleCat",
+    "url": "https://www.subtitlecat.com/index.php?search=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "ASSSRT",
+    "url": "https://assrt.net/sub/?searchword=imouto"
+  },
+  {
+    "type": "category",
+    "name": "히토미 / 만화"
+  },
+  {
+    "type": "engine",
+    "name": "Hitomi.la",
+    "url": "https://hitomi.la/doujinshi/imouto.html"
+  },
+  {
+    "type": "engine",
+    "name": "K-hentai",
+    "url": "https://k-hentai.org/?search=gid%3Aimouto"
+  },
+  {
+    "type": "engine",
+    "name": "HentaiPaw",
+    "url": "https://hentaipaw.com/articles/imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Litomi",
+    "url": "https://litomi.in/manga/imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Harpi",
+    "url": "https://harpi.in/reader/imouto"
+  },
+  {
+    "type": "engine",
+    "name": "11toon (주소 안내)",
+    "url": "https://11toon1.com/?utm_source=imouto"
+  },
+  {
+    "type": "category",
+    "name": "기술"
+  },
+  {
+    "type": "engine",
+    "name": "Chrome Web Store",
+    "url": "https://chromewebstore.google.com/search/imouto"
+  },
+  {
+    "type": "engine",
+    "name": "GreasyFork",
+    "url": "https://greasyfork.org/ko/scripts?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "APKPure",
+    "url": "https://apkpure.com/search?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Discord 초대 체크",
+    "url": "https://discord.com/api/v8/invites/imouto?with_counts=true"
+  },
+  {
+    "type": "engine",
+    "name": "Jina AI",
+    "url": "https://r.jina.ai/imouto"
+  },
+  {
+    "type": "engine",
+    "name": "서버 시간",
+    "url": "https://time.navyism.com/?host=imouto"
+  },
+  {
+    "type": "category",
+    "name": "쇼핑"
+  },
+  {
+    "type": "engine",
+    "name": "쿠팡",
+    "url": "https://www.coupang.com/np/search?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "AliExpress",
+    "url": "https://ko.aliexpress.com/w/wholesale-imouto.html"
+  },
+  {
+    "type": "category",
+    "name": "대체 검색"
+  },
+  {
+    "type": "engine",
+    "name": "Brave Search",
+    "url": "https://search.brave.com/search?q=imouto&source=web"
+  },
+  {
+    "type": "engine",
+    "name": "Startpage",
+    "url": "https://www.startpage.com/rvd/search?query=imouto&language=auto"
+  },
+  {
+    "type": "engine",
+    "name": "Sogou",
+    "url": "https://www.sogou.com/web?ie=utf8&fr=video_pc_nav&query=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Lukol",
+    "url": "https://www.lukol.com/s.php?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Mojeek",
+    "url": "https://www.mojeek.com/search?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Gibiru",
+    "url": "https://gibiru.com/results.html?q=imouto"
+  },
+  {
+    "type": "category",
+    "name": "OTT"
+  },
+  {
+    "type": "engine",
+    "name": "Netflix",
+    "url": "https://www.netflix.com/search?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Laftel",
+    "url": "https://laftel.net/search?keyword=imouto"
+  }
+]
