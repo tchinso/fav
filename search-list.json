@@ -29,23 +29,18 @@
     "url": "https://danbooru.donmai.us/posts?tags=imouto"
   },
   {
-    "type": "engine",
-    "name": "EmojiDB",
-    "url": "https://emojidb.org/imouto"
-  },
-  {
     "type": "category",
     "name": "커뮤니티"
   },
   {
     "type": "engine",
-    "name": "X",
-    "url": "https://x.com/search?q=imouto&f=live"
+    "name": "디시인사이드",
+    "url": "https://search.dcinside.com/combine/q/imouto"
   },
   {
     "type": "engine",
-    "name": "디시인사이드",
-    "url": "https://search.dcinside.com/combine/q/imouto"
+    "name": "X",
+    "url": "https://x.com/search?q=imouto&f=live"
   },
   {
     "type": "engine",
@@ -508,18 +503,9 @@
     "url": "https://time.navyism.com/?host=imouto"
   },
   {
-    "type": "category",
-    "name": "쇼핑"
-  },
-  {
     "type": "engine",
-    "name": "쿠팡",
-    "url": "https://www.coupang.com/np/search?q=imouto"
-  },
-  {
-    "type": "engine",
-    "name": "AliExpress",
-    "url": "https://ko.aliexpress.com/w/wholesale-imouto.html"
+    "name": "EmojiDB",
+    "url": "https://emojidb.org/imouto"
   },
   {
     "type": "category",
@@ -568,5 +554,19 @@
     "type": "engine",
     "name": "Laftel",
     "url": "https://laftel.net/search?keyword=imouto"
+  },
+  {
+    "type": "category",
+    "name": "쇼핑"
+  },
+  {
+    "type": "engine",
+    "name": "쿠팡",
+    "url": "https://www.coupang.com/np/search?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "AliExpress",
+    "url": "https://ko.aliexpress.com/w/wholesale-imouto.html"
   }
 ]
