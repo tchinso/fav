@@ -49,17 +49,17 @@
   },
   {
     "type": "engine",
+    "name": "Yahoo Realtime",
+    "url": "https://search.yahoo.co.jp/realtime/search?p=imouto&ei=UTF-8"
+  },
+  {
+    "type": "engine",
     "name": "Kone",
     "url": "https://kone.gg/s/all?q=imouto"
   },
   {
     "type": "category",
     "name": "리소스 (1차 탐색)"
-  },
-  {
-    "type": "engine",
-    "name": "Nyaa (Sukebei)",
-    "url": "https://sukebei.nyaa.si/?q=imouto"
   },
   {
     "type": "engine",
@@ -89,11 +89,6 @@
   {
     "type": "category",
     "name": "리소스 (2차 탐색)"
-  },
-  {
-    "type": "engine",
-    "name": "BT4GPRX",
-    "url": "https://bt4gprx.com/search?q=imouto"
   },
   {
     "type": "engine",
@@ -144,6 +139,50 @@
     "type": "engine",
     "name": "ACG.LA (주소 안내)",
     "url": "https://acg.la/?utm_source=imouto"
+  },
+  {
+    "type": "category",
+    "name": "리소스(마그넷)"
+  },
+  {
+    "type": "engine",
+    "name": "BT4GPRX",
+    "url": "https://bt4gprx.com/search?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Nyaa (Sukebei)",
+    "url": "https://sukebei.nyaa.si/?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Nyaa(All Ages)",
+    "url": "https://nyaa.si/?q=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Heimasou(주소안내)",
+    "url": "https://heimasou.top/?utm_source=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "Ciliduo(주소안내)",
+    "url": "https://ciliduo.org/?utm_source=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "sefan(주소안내)",
+    "url": "https://sefan.vip/?utm_source=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "MAGNETDL(주소안내)",
+    "url": "https://magnetdl.homes/?utm_source=imouto"
+  },
+  {
+    "type": "engine",
+    "name": "The Piratebay",
+    "url": "https://thepiratebay.org/search.php?q=imouto"
   },
   {
     "type": "category",
