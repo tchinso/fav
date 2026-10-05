@@ -1,0 +1,46 @@
+{
+  "source_url": "https://fav.ju.mp/",
+  "captured_at_kst": "2026-10-05T19:50:09+09:00",
+  "files": {
+    "assets/fonts/d22735946e13efe160f83524bab2fb6e/1f86a914fb4196d1956ee744138e8a6e.woff2": {
+      "bytes": 57584,
+      "sha256": "fe21293b1eaada2e04655361276203c4e0fec144fc7da7250bc2760e3534911b"
+    },
+    "assets/fonts/d22735946e13efe160f83524bab2fb6e/5781dc8200161897cd0491da80778d5f.woff2": {
+      "bytes": 38648,
+      "sha256": "bf00f46068c73e02d588a4091abde4f43cd9813fe55ffba0fe93c3c5b4640119"
+    },
+    "assets/fonts/d22735946e13efe160f83524bab2fb6e/abb84f9925c9c25e014c62febd841ef5.woff2": {
+      "bytes": 57240,
+      "sha256": "88988102663f4b1ce5c0c3bc036fef6ad34fdf4201fd11ce63ff7c3a17c97f6b"
+    },
+    "assets/fonts/d22735946e13efe160f83524bab2fb6e/e17a72bf1fe6c298f3cad984d888355c.woff2": {
+      "bytes": 38452,
+      "sha256": "ed3bbeaaf65ed84954296ce494a67303fdabd1cb15804706d3ff9ed12da80d05"
+    },
+    "assets/images/apple-touch-icon.png@v=939ed5cc": {
+      "bytes": 15827,
+      "sha256": "96eb701d3377b59b58afdd89832dc788f6c9327a3edbddecb374057b4d5b2a78"
+    },
+    "assets/images/card.jpg@v=939ed5cc": {
+      "bytes": 32681,
+      "sha256": "309a102e6587e59b73a60c76fd3eab7b4357c9c6137e5293f73c01816b0a859a"
+    },
+    "assets/images/favicon.png@v=939ed5cc": {
+      "bytes": 4128,
+      "sha256": "8aea69dedbca6e1ac14022641d74dc59cefad7fc6a61bdb0fb6f67aaab2265f8"
+    },
+    "cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js": {
+      "bytes": 1239,
+      "sha256": "2595496fe48df6fcf9b1bc57c29a744c121eb4dd11566466bc13d2e52e6bbcc8"
+    },
+    "index.html": {
+      "bytes": 247090,
+      "sha256": "120f4cf8fae96cacefed9d2bd73d0b0f2a2175d9f5c344ec79c9c535576a78ea"
+    },
+    "index.html.orig": {
+      "bytes": 247011,
+      "sha256": "4c31bfccac8f02d8fb256b2992daec97cfc00c81408c7ef8a5f92e260fd2dbab"
+    }
+  }
+}

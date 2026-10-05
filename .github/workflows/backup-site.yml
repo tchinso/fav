@@ -1,0 +1,59 @@
+name: Back up fav.ju.mp
+
+on:
+  schedule:
+    # Sunday 18:17 UTC = Monday 03:17 Asia/Seoul (KST).
+    - cron: '17 18 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: fav-site-backup
+  cancel-in-progress: false
+
+jobs:
+  backup:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - name: Check out the default branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Verify backup safeguards
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Download and verify the full site
+        run: python3 scripts/backup_site.py --output "$RUNNER_TEMP/fav-site"
+
+      - name: Keep a downloadable backup for 7 days
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7
+        with:
+          name: fav-site-${{ github.run_id }}-${{ github.run_attempt }}
+          path: ${{ runner.temp }}/fav-site/
+          if-no-files-found: error
+          retention-days: 7
+
+      - name: Commit the verified snapshot
+        run: |
+          previous_sha=$(git rev-parse HEAD)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Keep one root commit instead of accumulating weekly binary history.
+          git add --all
+          tree_sha=$(git write-tree)
+          snapshot_sha=$(git commit-tree "$tree_sha" \
+            -m "Back up fav.ju.mp ($(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M KST'))")
+          # Refuse to replace a newer change made while the download was running.
+          git push --force-with-lease="refs/heads/$GITHUB_REF_NAME:$previous_sha" \
+            origin "$snapshot_sha:refs/heads/$GITHUB_REF_NAME"
+
+      - name: Refresh the existing GitHub Pages fallback
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
